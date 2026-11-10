@@ -106,8 +106,9 @@
 
 ### Неоновый эффект
 
-python main.py -i images/image2.jpg -o out_neon.jpg -f neon --neon_gain 25 --neon_brightness 1.5 --neon_brightness_width 7 --neon_color 255,255,50 --neon_edge_thickness 6
-python main.py -i images/image2.jpg -o out_neon.jpg -f neon --neon_gain 25 --neon_brightness 1.5 --neon_brightness_width 16 --neon_color 255,255,50 --neon_edge_thickness 2
+    python main.py -i images/image2.jpg -o out_neon.jpg -f neon --neon_gain 25 --neon_brightness 1.5 --neon_brightness_width 7 --neon_color 255,255,50 --neon_edge_thickness 6
+    
+    python main.py -i images/image2.jpg -o out_neon.jpg -f neon --neon_gain 25 --neon_brightness 1.5 --neon_brightness_width 16 --neon_color 255,255,50 --neon_edge_thickness 2
 
 ---
 
